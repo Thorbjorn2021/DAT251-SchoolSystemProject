@@ -39,3 +39,8 @@ cd ./Frontend/DAT251-frontend/
 pnpm install  # Installs the dependencies 
 pnpm run dev  # Runs the frontend dev server
 ```
+
+## License
+
+This project is licensed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.  
+You may view the source code, but reuse, modification, or commercial use is not permitted without explicit permission.
